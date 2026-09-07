@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Requieem
-- 👀 Currently looking for a Placement Position as Game Programmer
-- 📖 MSc Student in Game Development (Programming) @ Kingston University, London
-- 🌱 Unity Certified User
+- 📖 MSc in Game Development (Programming) @ Kingston University, London
+- 🌱 10+ years coding stuff and my github still looks like s**t
 - 💞️ Looking to collaborate on Cool and Useful Projects!
 - 📫 How to reach me: send me an email at farace.marco@outlook.it
-- 🖥️ Take a Look at my [GitLab](https://gitlab.com/Requiaem) also!
-- 👾 While you're at it, try some of my games on [itch.io](https://requieem.itch.io)
+- 🖥️ Take a Look at our indie studio [Shiresoft](https://shiresoft.io) also!
+- 👾 While you're at it, try some of our games on [itch.io](https://requieem.itch.io) and shiresoft's [itch.io](https://shiresoft.itch.io)
